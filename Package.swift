@@ -23,7 +23,7 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/stephencelis/SQLite.swift.git",
+      url: "https://github.com/Nonnus/SQLite.swift.git",
       .upToNextMajor(from: "0.15.1")),
   ],
   targets: [
